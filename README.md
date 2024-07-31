@@ -1,5 +1,3 @@
-<h2 align="center">GitHub Contribution Graph</h2>
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/kaitouoim/kaitouoim/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
@@ -7,12 +5,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack+Developer;Blockchain+Enthusiast;Always+learning+new+things&font=Fira%20Code&center=true&width=380&height=50">
 </div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kaitouoim&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</div>
-
-<h2 align="center">Skills</h2>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-plain.svg" height="30" alt="solidity" />
@@ -41,3 +33,6 @@
 
 
 <p align="center">Thanks for visiting my profile! Have a great day! 😊</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=kaitouoim&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</div>
