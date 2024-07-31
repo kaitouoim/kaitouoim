@@ -1,4 +1,8 @@
-<h1 align="center">Welcome to My GitHub Profile! 👋</h1>
+<h2 align="center">GitHub Contribution Graph</h2>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/kaitouoim/kaitouoim/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack+Developer;Blockchain+Enthusiast;Always+learning+new+things&font=Fira%20Code&center=true&width=380&height=50">
@@ -31,19 +35,9 @@
       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" />
     </a>
   </div>
-  <img src="https://i.pinimg.com/originals/6c/90/28/6c90288d7e10d46d18895f17f420a92c.gif" alt="coding gif" style="height: 150px;" />
+  <img src="https://i.pinimg.com/originals/6c/90/28/6c90288d7e10d46d18895f17f420a92c.gif" alt="coding gif" style="height: 50px; width: 50px" />
 </div>
 
-<h2 align="center">GitHub Contribution Graph</h2>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/kaitouoim/kaitouoim/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
-
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kaitouoim&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
 
 <p align="center">Thanks for visiting my profile! Have a great day! 😊</p>
