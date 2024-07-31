@@ -2,35 +2,54 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
+    - cron: "0 0 * * *"  # Jalankan setiap hari pada pukul 00:00 UTC
+  workflow_dispatch:  # Memungkinkan untuk menjalankan workflow secara manual
   push:
     branches:
-      - main
+      - main  # Sesuaikan dengan nama branch utama Anda
 
 jobs:
   generate:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     
     steps:
-      - uses: actions/checkout@v3
-      
-      - uses: Platane/snk@v3
-        id: snake-gif
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '16'
+
+      - name: Generate Snake SVG
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-          
-          # Konfigurasi warna kustom
-          snake_color: '#1E90FF'           # Warna ular (contoh: Dodger Blue)
-          color_snake: '#1E90FF'           # Alternatif nama untuk snake_color
-          color_dots: '#4169E1,#0000FF,#000080,#191970' # Warna titik-titik (dari paling sedikit ke paling banyak kontribusi)
+            dist/github-contribution-grid-snake-dark.svg
+          snake_color: 'blue'
+          color_snake: 'blue'
+          color_dots: '{"dark":"#161B22","light":"#ebedf0","normal":"#30a14e","medium":"#56d364","high":"#39d353"}'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - uses: crazy-max/ghaction-github-pages@v3
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
+          commit_message: "Update snake animation"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Verify output
+        run: |
+          if [ -f dist/github-contribution-grid-snake.svg ] && [ -f dist/github-contribution-grid-snake-dark.svg ]; then
+            echo "SVG files generated successfully"
+          else
+            echo "SVG files not found"
+            exit 1
+          fi
