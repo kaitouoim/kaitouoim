@@ -26,7 +26,7 @@
 <div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kaitouoim&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" style="height: 150px;" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaitouoim&theme=radical" alt="GitHub streak stats" style="height: 150px;" />
-  <img src="https://i.pinimg.com/originals/6c/90/28/6c90288d7e10d46d18895f17f420a92c.gif" alt="coding gif" style="height: 50px; width: 50px" />
+  <img src="https://i.pinimg.com/originals/6c/90/28/6c90288d7e10d46d18895f17f420a92c.gif" alt="coding gif" style="height: 150px;" />
 </div>
 
 <div style="display: flex; justify-content: space-around; align-items: center; margin-top: 20px;">
