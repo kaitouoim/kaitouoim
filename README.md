@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+My+World!;Full-Stack+Developer;Blockchain+Innovator;Code+is+My+Art&font=Fira%20Code&center=true&width=500&height=60&color=00FFDD&vCenter=true" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Enter+the+Code+Zone;Full-Stack+Shadow;Blockchain+Developert;Art+in+Every+Line&font=Fira%20Code¢er=true&width=500&height=60&color=00FFDD&vCenter=true" />
 </div>
 
 <div align="center" style="margin: 20px 0;">
@@ -17,7 +17,7 @@
 
 ---
 
-### **Most Used Languages**
+### ** **
 <div align="center" style="margin: 30px 0;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaitouoim&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=00FFDD&text_color=FFFFFF" alt="Most Used Languages" style="height: 180px;" />
 </div>
