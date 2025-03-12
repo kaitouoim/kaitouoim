@@ -18,37 +18,18 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: '16'
-
       - name: Generate Snake SVG
-        uses: Platane/snk@v3
+        uses: Platane/snk@master
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg
-          color_snake: '#BD93F9'  # Ungu tua dari tema Dracula untuk ular
-          color_dots: '{"dark":"#161B22","light":"#8BE9FD","normal":"#30a14e","medium":"#56d364","high":"#39d353"}'  # Putih diganti cyan
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          svg_out_path: dist/github-contribution-grid-snake.svg
 
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-          commit_message: "Update snake animation"
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Verify output
+      - name: Commit and Push
         run: |
-          if [ -f dist/github-contribution-grid-snake.svg ] && [ -f dist/github-contribution-grid-snake-dark.svg ]; then
-            echo "SVG files generated successfully"
-          else
-            echo "SVG files not found"
-            exit 1
-          fi
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add dist/github-contribution-grid-snake.svg
+          git commit -m "Update snake animation with custom colors" || echo "No changes to commit"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
