@@ -24,20 +24,6 @@
 
 ---
 
-### **Activity Graph**
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaitouoim&theme=radical" alt="Activity Graph" />
-</div>
-
----
-
-### **Quote of the Day**
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote of the Day" />
-</div>
-
----
-
 ### **Contact Me**
 <div align="center">
   <a href="https://t.me/kaitouoim" target="_blank">
