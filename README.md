@@ -17,29 +17,33 @@
 
 ---
 
-### 🎧 Now Playing on Spotify
-[![Spotify](https://spotify-now-playing-kaitouoim.vercel.app/api/spotify)](https://open.spotify.com/user/your_spotify_id)
+### **Most Used Languages**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaitouoim&layout=compact&theme=radical" alt="Most Used Languages" />
+</div>
 
 ---
 
-### 📜 Quote of the Day
+### **Activity Graph**
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaitouoim&theme=radical" alt="Activity Graph" />
+</div>
+
+---
+
+### **Quote of the Day**
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote of the Day" />
 </div>
 
 ---
 
-### 🚀 Featured Projects
-- **[Project 1](https://github.com/kaitouoim/project1)**: Deskripsi singkat tentang proyek ini.
-- **[Project 2](https://github.com/kaitouoim/project2)**: Deskripsi singkat tentang proyek ini.
-- **[Project 3](https://github.com/kaitouoim/project3)**: Deskripsi singkat tentang proyek ini.
-
----
-
-### 📞 Contact Me
-<a href="https://t.me/kaitouoim" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-</a>
+### **Contact Me**
+<div align="center">
+  <a href="https://t.me/kaitouoim" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+</div>
 
 ---
 
