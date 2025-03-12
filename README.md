@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+World!;Full-Stack+Developer;Blockchain+Innovator;Code+is+my+Art&font=Fira%20Code¢er=true&width=440&height=60&color=00FFDD&vCenter=true" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+My+World!;Full-Stack+Developer;Blockchain+Innovator;Code+is+My+Art&font=Fira%20Code¢er=true&width=500&height=60&color=00FFDD&vCenter=true" />
 </div>
 
 <div align="center" style="margin: 20px 0;">
