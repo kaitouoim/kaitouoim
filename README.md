@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/kaitouoim/kaitouoim/main/dist/github-contribution-grid-snake.svg?color_snake=BD93F9&color_dots=8BE9FD,6272A4,FF79C6,F1FA8C,50FA7B" alt="snake animation" width="700" />
+  <img src="https://raw.githubusercontent.com/kaitouoim/kaitouoim/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Enter+the+Code+Zone;Full-Stack+Shadow;Blockchain+Developer;Art+in+Every+Line&font=Fira%20Code¢er=true&width=500&height=60&color=00FFDD&vCenter=true" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile!;Full-stack+Developer;Blockchain+Enthusiast;Always+learning+new+things&font=Fira%20Code¢er=true&width=380&height=50">
 </div>
 
-<div align="center" style="margin: 20px 0;">
+<div align="center">
   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -17,15 +17,16 @@
 
 ---
 
-### **Most Used Languages**
-<div align="center" style="margin: 30px 0;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaitouoim&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=00FFDD&text_color=FFFFFF" alt="Most Used Languages" style="height: 180px;" />
+### **Most Used Languages & Quote of the Day**
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaitouoim&layout=compact&theme=radical" alt="Most Used Languages" style="height: 160px;" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote of the Day" style="height: 160px;" />
 </div>
 
 ---
 
-### **Connect with Me**
-<div align="center" style="margin: 20px 0;">
+### **Contact Me**
+<div align="center">
   <a href="https://t.me/kaitouoim" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
@@ -33,10 +34,8 @@
 
 ---
 
-<div align="center" style="margin-top: 30px;">
-  <img src="https://komarev.com/ghpvc/?username=kaitouoim&label=Profile%20Views&color=00FFDD&style=flat-square" alt="Profile Views" />
-</div>
+<p align="center">Thank you for visiting my profile. Have a great day.</p>
 
 <div align="center">
-  <p style="font-family: 'Fira Code', monospace; color: #00FFDD;">Crafting the future, one line of code at a time.</p>
+  <img src="https://komarev.com/ghpvc/?username=kaitouoim&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
