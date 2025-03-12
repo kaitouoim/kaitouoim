@@ -17,6 +17,13 @@
 
 ---
 
+### **Most Used Languages**
+<div align="center" style="margin: 30px 0;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaitouoim&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=00FFDD&text_color=FFFFFF" alt="Most Used Languages" style="height: 180px;" />
+</div>
+
+---
+
 ### **Connect with Me**
 <div align="center" style="margin: 20px 0;">
   <a href="https://t.me/kaitouoim" target="_blank">
