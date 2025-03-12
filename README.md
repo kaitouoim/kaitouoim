@@ -3,33 +3,45 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack+Developer;Blockchain+Enthusiast;Always+learning+new+things&font=Fira%20Code&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile!;Full-stack+Developer;Blockchain+Enthusiast;Always+learning+new+things&font=Fira%20Code&center=true&width=380&height=50">
 </div>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-plain.svg" height="30" alt="solidity" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python" />
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </div>
 
 <div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kaitouoim&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" style="height: 150px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaitouoim&theme=radical" alt="GitHub streak stats" style="height: 150px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kaitouoim&show_icons=true&theme=radical" alt="GitHub Stats" style="height: 150px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaitouoim&theme=radical" alt="GitHub Streak Stats" style="height: 150px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaitouoim&layout=compact&theme=radical" alt="Top Languages" style="height: 150px;" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kaitouoim&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
 <div style="display: flex; justify-content: center; align-items: center; margin-top: 20px;">
   <div>
     <h2>Contact Me</h2>
     <a href="https://t.me/kaitouoim" target="_blank">
-      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" />
+      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    </a>
+    <a href="https://linkedin.com/in/yourusername" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:youremail@example.com" target="_blank">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </div>
 </div>
 
 <p align="center">Thank you for visiting my profile. Have a great day.</p>
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kaitouoim&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=kaitouoim&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
