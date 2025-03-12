@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+World!;Full-Stack+Developer;Blockchain+Innovator;Code+is+my+Art&font=Fira%20Code&center=true&width=440&height=60&color=00FFDD&vCenter=true" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+World!;Full-Stack+Developer;Blockchain+Innovator;Code+is+my+Art&font=Fira%20Code¢er=true&width=440&height=60&color=00FFDD&vCenter=true" />
 </div>
 
 <div align="center" style="margin: 20px 0;">
@@ -13,14 +13,6 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-</div>
-
----
-
-### **Code Stats**
-<div align="center" style="margin: 30px 0;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaitouoim&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=00FFDD&text_color=FFFFFF" alt="Most Used Languages" style="height: 180px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaitouoim&theme=dracula&hide_border=true&background=0D1117&stroke=00FFDD&ring=00FFDD&fire=FF5555&currStreakLabel=FFFFFF" alt="GitHub Streak" style="height: 180px;" />
 </div>
 
 ---
