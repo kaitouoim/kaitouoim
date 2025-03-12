@@ -18,9 +18,9 @@
 ---
 
 ### **Most Used Languages & Quote of the Day**
-<div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaitouoim&layout=compact&theme=radical" alt="Most Used Languages" style="height: 150px;" />
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote of the Day" style="height: 150px;" />
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaitouoim&layout=compact&theme=radical" alt="Most Used Languages" style="height: 160px;" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote of the Day" style="height: 160px;" />
 </div>
 
 ---
