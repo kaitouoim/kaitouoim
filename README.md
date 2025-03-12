@@ -20,19 +20,16 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaitouoim&theme=radical" alt="GitHub streak stats" style="height: 150px;" />
 </div>
 
-<div style="display: flex; justify-content: space-around; align-items: center; margin-top: 20px;">
+<div style="display: flex; justify-content: center; align-items: center; margin-top: 20px;">
   <div>
     <h2>Contact Me</h2>
     <a href="https://t.me/kaitouoim" target="_blank">
       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" />
     </a>
   </div>
-  
 </div>
 
-
-
-<p align="center">Thanks for visiting my profile! Have a great day! 😊</p>
+<p align="center">Thank you for visiting my profile. Have a great day.</p>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=kaitouoim&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </div>
