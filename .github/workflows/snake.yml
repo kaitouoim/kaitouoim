@@ -1,35 +1,25 @@
-name: Generate Snake Animation
+name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Jalankan setiap hari pada pukul 00:00 UTC
-  workflow_dispatch:  # Memungkinkan untuk menjalankan workflow secara manual
-  push:
-    branches:
-      - main  # Sesuaikan dengan nama branch utama Anda
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4  # Update ke versi terbaru
-
-      - name: Generate Snake SVG
-        uses: Platane/snk@master
+      - uses: actions/checkout@v3
+      - uses: Platane/snk@master
         with:
-          github_user_name: ${{ github.repository_owner }}
-          svg_out_path: dist/github-contribution-grid-snake.svg
-
-      - name: Commit and Push
+          github_user_name: kaitouoim
+          svg_out_path: output/github-contribution-grid-snake.svg
+      - name: Push to GitHub
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add dist/github-contribution-grid-snake.svg
-          git commit -m "Update snake animation with custom colors" || echo "No changes to commit"
+          git add output/github-contribution-grid-snake.svg
+          git commit -m "Update snake animation" || echo "No changes"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
