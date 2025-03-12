@@ -30,9 +30,8 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg
-          snake_color: 'blue'
-          color_snake: 'blue'
-          color_dots: '{"dark":"#161B22","light":"#ebedf0","normal":"#30a14e","medium":"#56d364","high":"#39d353"}'
+          color_snake: '#BD93F9'  # Ungu tua dari tema Dracula untuk ular
+          color_dots: '{"dark":"#161B22","light":"#8BE9FD","normal":"#30a14e","medium":"#56d364","high":"#39d353"}'  # Putih diganti cyan
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
