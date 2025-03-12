@@ -15,30 +15,33 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </div>
 
-<div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaitouoim&show_icons=true&theme=radical" alt="GitHub Stats" style="height: 150px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaitouoim&theme=radical" alt="GitHub Streak Stats" style="height: 150px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaitouoim&layout=compact&theme=radical" alt="Top Languages" style="height: 150px;" />
-</div>
+---
 
+### 🎧 Now Playing on Spotify
+[![Spotify](https://spotify-now-playing-kaitouoim.vercel.app/api/spotify)](https://open.spotify.com/user/your_spotify_id)
+
+---
+
+### 📜 Quote of the Day
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kaitouoim&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote of the Day" />
 </div>
 
-<div style="display: flex; justify-content: center; align-items: center; margin-top: 20px;">
-  <div>
-    <h2>Contact Me</h2>
-    <a href="https://t.me/kaitouoim" target="_blank">
-      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-    </a>
-    <a href="https://linkedin.com/in/yourusername" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:youremail@example.com" target="_blank">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-  </div>
-</div>
+---
+
+### 🚀 Featured Projects
+- **[Project 1](https://github.com/kaitouoim/project1)**: Deskripsi singkat tentang proyek ini.
+- **[Project 2](https://github.com/kaitouoim/project2)**: Deskripsi singkat tentang proyek ini.
+- **[Project 3](https://github.com/kaitouoim/project3)**: Deskripsi singkat tentang proyek ini.
+
+---
+
+### 📞 Contact Me
+<a href="https://t.me/kaitouoim" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+</a>
+
+---
 
 <p align="center">Thank you for visiting my profile. Have a great day.</p>
 
